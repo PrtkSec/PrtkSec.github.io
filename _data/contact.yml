@@ -1,6 +1,10 @@
 #  The contact options.
 
 -
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://nz.linkedin.com/in/pratik-patel-oscp-459040a7'
+-
   type: github
   icon: 'fab fa-github-alt'
 -
@@ -11,8 +15,8 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
+  #type: rss
+  #icon: 'fas fa-rss'
   noblank: true
 
 # Uncomment and complete the url below to enable more contact options

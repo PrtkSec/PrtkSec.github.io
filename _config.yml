@@ -30,6 +30,9 @@ github:
 
 twitter:
   username: prtksec            # change to your twitter username
+  
+linkedin:
+  username: pratik-patel-oscp-459040a7 # change to linkedin username
 
 social:
   # Change to your full name.
@@ -41,8 +44,9 @@ social:
     - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
+    - https://nz.linkedin.com/in/pratik-patel-oscp-459040a7
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
