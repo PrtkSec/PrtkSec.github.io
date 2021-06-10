@@ -13,4 +13,4 @@ As part of my upskilling journey, I have recently obtained the OSCP certificatio
 
 I enjoy spending time doing CTF's on online platforms such as HackTheBox, tryhackme & Vulnhub to learn & gain practical hands-on experience on vulnerable applications/machines. For me Cyber Security is a hobby that i would like to turn it into a full time profession.
 
-Click here to download my CV!
+For my CV please contact me on linkedin or email at pratik.patel@outlook.co.nz
